@@ -6,7 +6,7 @@ Since 2018 I've been living and breathing software development, remote sensing, 
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my cloud architect and AWS skills, specially using Terraform.<br />
+Currently improving my cloud architect and AWS skills, specifically using Terraform.<br />
 
 ### Find me elsewhere 🌎
 
