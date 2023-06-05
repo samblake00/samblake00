@@ -10,7 +10,7 @@ Currently improving my cloud architect and AWS skills, specifically using Terraf
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauelhblake/)](https://www.linkedin.com/in/samuelhblake/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samblake00)](https://www.linkedin.com/in/samblake00/)
 
 
 **[samblake00.github.io](https://samblake00.github.io/)**
