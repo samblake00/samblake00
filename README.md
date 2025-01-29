@@ -2,7 +2,7 @@
 
 I am a Software Engineer with Maxar Technologies with a background in applied geography and programming. I´m based in Fort Collins, Colorado.
 
-Since 2018 I've been living and breathing software development, remote sensing, and GIS. I've had the opportunity to immerse myself in many different projects, all while helping to make map this world using code. ✨
+Since 2018 I've been living and breathing software development, remote sensing, and GIS. I've had the opportunity to immerse myself in many different projects, all while helping to map this world using code. ✨
 
 <details>
 <summary>In Summary</summary>
