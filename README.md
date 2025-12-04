@@ -1,6 +1,6 @@
 <h1>Hello, I'm <a href="https://samblake00.github.io/">Sam</a>!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I am a Software Engineer with Maxar Technologies with a background in applied geography and programming. I´m based in Fort Collins, Colorado.
+I am a Software Engineer with Vantor with a background in applied geography and programming. I´m based in Fort Collins, Colorado.
 
 Since 2018 I've been living and breathing software development, remote sensing, and GIS. I've had the opportunity to immerse myself in many different projects, all while helping to map this world using code. ✨
 
@@ -15,10 +15,6 @@ designing and implementing complex software systems.</li>
 deliver reliable and scalable software applications.</li>
 </ul>
 </details>
-
-### What I'm focusing on 👨‍💻
-
-Currently improving my cloud architect and AWS skills, specifically using Terraform.<br />
 
 ### Find me elsewhere 🌎
 
