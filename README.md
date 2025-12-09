@@ -23,5 +23,4 @@ deliver reliable and scalable software applications.</li>
 <a href="mailto:samuel.blake@ucdenver.edu​"><img src="./logos/google-plus.png" width="40" /></a>
 
 
-[[Sam's Github Stats](https://github-readme-stats.vercel.app/api?username=samblake00&show_icons=true&count_private=true)](https://github.com/samblake00/github-readme-stats)
-
+![Sam's Github Stats](https://github-readme-stats.vercel.app/api?username=samblake00&show_icons=true&theme=transparent)
