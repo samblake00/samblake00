@@ -1,26 +1,59 @@
-<h1>Hello, I'm <a href="https://samuel-blake.vercel.app/">Sam</a>!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">
+  Hey, I'm <a href="https://samuel-blake.vercel.app/">Sam Blake</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand" />
+</h1>
 
-I am a Software Engineer with Vantor with a background in applied geography and programming. I´m based in Fort Collins, Colorado.
+<p align="center">
+  <b>Software Engineer @ Vantor</b> • Applied Geography + Programming • Fort Collins, CO
+</p>
 
-Since 2018 I've been living and breathing software development, remote sensing, and GIS. I've had the opportunity to immerse myself in many different projects, all while helping to map this world using code. ✨
+<p align="center">
+  I build reliable software for cloud, geospatial, and satellite-imagery workflows.
+  Since 2018, I’ve focused on web apps, APIs, GIS, and automation that turn complex data into practical tools. ✨
+</p>
 
-<details>
-<summary>In Summary</summary>
-<ul>
-<li>Design and develop interactive web applications and APIs</li>
-<li>Proficient in multiple programming languages including Python, Groovy, Java, and Shell with a strong track record of
-designing and implementing complex software systems.</li>
-<li>Apply machine learning and computer vision techniques to enhance the analysis of geographic and satellite data</li>
-<li>Adept at translating user requirements into practical solutions, conducting comprehensive testing, and debugging to
-deliver reliable and scalable software applications.</li>
-</ul>
-</details>
+<p align="center">
+  <a href="https://samuel-blake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samblake00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/samblake00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:samuel.blake@ucdenver.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### Find me elsewhere 🌎
+---
 
-<a href="https://www.linkedin.com/in/samblake00/"><img src="./logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/samblake00"><img src="./logos/github-logo.png" width="40" /></a>
-<a href="mailto:samuel.blake@ucdenver.edu​"><img src="./logos/google-plus.png" width="40" /></a>
+## What I do
 
+- Build interactive web applications and APIs
+- Design scalable cloud and distributed-system workflows
+- Apply ML/computer vision to geospatial + satellite data
+- Translate requirements into production-ready software with strong testing/debugging practices
 
-![Sam's Github Stats](https://github-readme-stats.vercel.app/api?username=samblake00&show_icons=true&theme=transparent)
+## Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,docker,aws,postgres,git,linux,bash" />
+</p>
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samblake00&show_icons=true&theme=transparent&hide_border=true"
+    alt="Sam's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samblake00&layout=compact&theme=transparent&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=samblake00&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
