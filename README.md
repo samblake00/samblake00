@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer @ Vantor</b> • Applied Geography + Programming • Fort Collins, CO
+  <b>Staff Software Development Engineer @ Vantor</b> • Fort Collins, CO
 </p>
 
 <p align="center">
