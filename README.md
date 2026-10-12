@@ -24,11 +24,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,docker,postgres,git,linux" alt="Technologies I use" />
 </p>
-
-## Find me elsewhere
-
-<p align="center">
-  <a href="https://samuel-blake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-555?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/samblake00/"><img src="https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:samuel.blake@ucdenver.edu"><img src="https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
