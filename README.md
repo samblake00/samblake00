@@ -28,16 +28,7 @@
 ## Find me elsewhere
 
 <p align="center">
-  <a href="https://samuel-blake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samblake00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samuel.blake@ucdenver.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samblake00&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" height="160" />
-</p>
+  <a href="https://samuel-blake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-555?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/samblake00/"><img src="https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samuel.blake@ucdenver.edu"><img src="https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
